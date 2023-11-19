@@ -1,0 +1,21 @@
+.badge-category__wrapper .badge-category:before {
+				content: '';
+				width: 20px !important;
+				height:9px !important;
+				margin-right: 5px;
+				background-image: url(https://www.nicepng.com/png/full/1-18892_bullets-png-image-gun-bullet-png.png);
+				background-size: 20px 9px;
+				background-color: transparent !important;
+}
+
+
+
+.badge-category__wrapper .badge-category.--has-parent:before {
+				content: '';
+				width: 20px !important;
+				height:9px !important;
+				margin-right: 5px;
+				background-image: url(https://www.nicepng.com/png/full/1-18892_bullets-png-image-gun-bullet-png.png);
+				background-size: 20px 9px;
+				background-color: transparent !important;
+}
